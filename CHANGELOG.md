@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.1](https://www.github.com/terraform-google-modules/terraform-example-foundation/compare/v2.1.0...v2.1.1) (2021-06-04)
+
+
+### Bug Fixes
+
+* add browser role to cloud build sa for provided folders ([#484](https://www.github.com/terraform-google-modules/terraform-example-foundation/issues/484)) ([b3996e2](https://www.github.com/terraform-google-modules/terraform-example-foundation/commit/b3996e22f3f9f31242a774f99aab360f8467615d))
+
 ## [2.1.0](https://www.github.com/terraform-google-modules/terraform-example-foundation/compare/v2.0.0...v2.1.0) (2021-05-15)
 
 
